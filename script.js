@@ -1,4 +1,4 @@
-const canvas = document.getElementById('myCanvas');
+const canvas = document.getElementById('alx');
 const ctx = canvas.getContext('2d');
 
 // Sesuaikan ukuran canvas dengan ukuran jendela
